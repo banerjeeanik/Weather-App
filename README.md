@@ -9,7 +9,7 @@ A clean and responsive Weather Forecast Web App built using HTML, CSS, and JavaS
 🚀 Live Demo
 
 🌍 Try the app here:
-👉 https://your-vercel-project-name.vercel.app
+👉 https://vercel.com/anik-s-projects-b4c806f7/weather-app/6tzYZpXMGynNu1ceHviFtGCSpjip
 
 ---
 
