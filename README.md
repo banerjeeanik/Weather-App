@@ -1,4 +1,6 @@
-🌤️ Weather App
+
+
+🌤️ **Weather App**
 
 A clean and responsive Weather Forecast Web App built using HTML, CSS, and JavaScript that shows real-time weather data and a multi-day forecast for any city in the world.
 
@@ -6,14 +8,14 @@ A clean and responsive Weather Forecast Web App built using HTML, CSS, and JavaS
 
 ---
 
-🚀 Live Demo
+🚀 **Live Demo**
 
 🌍 Try the app here:
 👉 https://weather-q0txfeowo-anik-s-projects-b4c806f7.vercel.app/
 
 ---
 
-🚀 Features
+🚀 **Features**
 
 ✅ Search weather by city name
 
@@ -31,25 +33,25 @@ A clean and responsive Weather Forecast Web App built using HTML, CSS, and JavaS
 
 ---
 
-🖼️ Preview
+🖼️ **Preview**
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-29 215959" src="https://github.com/user-attachments/assets/b179da0a-66db-410a-babe-8c1493df7205" />
 
 ---
 	
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 
-HTML5 – Structure
+- HTML5 – Structure
 
-CSS3 – Styling & Glassmorphism UI
+- CSS3 – Styling & Glassmorphism UI
 
-JavaScript (Vanilla JS) – Logic & API handling
+- JavaScript (Vanilla JS) – Logic & API handling
 
-OpenWeatherMap API – Weather data
+- OpenWeatherMap API – Weather data
 
 ---
 
-📂 Project Structure
+📂  **Project Structure**
 
 📁 Weather-App
 
@@ -67,39 +69,30 @@ OpenWeatherMap API – Weather data
 
  ---
 
-⚙️ How It Works
+⚙️ **How It Works**
 
-User enters a city name
-
-App sends request to OpenWeatherMap API
-
-Weather data is fetched using fetch()
-
-UI updates dynamically with:
-
-Temperature
-
-Weather condition
-
-Humidity
-
-Wind speed
-
-Weather icons
-
-Forecast data is filtered to show midday predictions
+- User enters a city name
+- App sends request to OpenWeatherMap API
+- Weather data is fetched using fetch()
+- UI updates dynamically with:
+- Temperature
+- Weather condition
+- Humidity
+- Wind speed
+- Weather icons
+- Forecast data is filtered to show midday predictions
 
 ---
 
-🔑 API Setup (Important)
+🔑 **API Setup**
 
 This project uses an API key from OpenWeatherMap.
 
-Step 1: Get Your Free API Key
+**Step 1**: Get Your Free API Key
 
 👉 https://openweathermap.org/api
 
-Step 2: Replace the API Key
+**Step 2**: Replace the API Key
 
 Open script.js and replace:
 
@@ -107,19 +100,16 @@ const apiKey = 'YOUR_API_KEY_HERE';
 
 ---
 
-💻 How to Run Locally
+💻 **How to Run Locally**
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
-
-
-
 
 Then open index.html in your browser
 or use Live Server in VS Code.
 
 ---
 
-🌍 Future Improvements
+🌍 **Future Improvements**
 
 📍 Detect user location automatically
 
@@ -133,14 +123,14 @@ or use Live Server in VS Code.
 
 ---
 
-🙌 Author
+🙌 **Author**
 
-Anik Banerjee
-Aspiring Frontend Developer 🚀
-Passionate about building real-world web projects
+- Anik Banerjee
+- Aspiring Frontend Developer 🚀
+- Passionate about building real-world web projects
 
 ---
 
-⭐ Support
+⭐ **Support**
 
 If you like this project, give it a ⭐ on GitHub and share your feedback!
